@@ -6,13 +6,11 @@
 #    By: mobenhab <mobenhab@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2026/01/11 16:14:05 by mobenhab          #+#    #+#              #
-#    Updated: 2026/01/11 16:19:02 by mobenhab         ###   ########.fr        #
+#    Updated: 2026/01/12 13:57:28 by mobenhab         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 def ft_plot_area():
-    length = input("Enter length: ")
-    length = int(length)
-    width = input("Enter width: ")
-    width = int(width)
+    length = int(input("Enter length: "))
+    width = int(input("Enter width: "))
     print("Ploa area: ", length * width)

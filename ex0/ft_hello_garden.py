@@ -6,10 +6,9 @@
 #    By: mobenhab <mobenhab@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2026/01/10 18:50:41 by mobenhab          #+#    #+#              #
-#    Updated: 2026/01/11 16:12:06 by mobenhab         ###   ########.fr        #
+#    Updated: 2026/01/12 13:56:38 by mobenhab         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 def ft_hello_garden():
     print("Hello, Garden Community!")
-

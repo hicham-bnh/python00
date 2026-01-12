@@ -6,7 +6,7 @@
 #    By: mobenhab <mobenhab@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2026/01/11 16:34:00 by mobenhab          #+#    #+#              #
-#    Updated: 2026/01/11 17:54:30 by mobenhab         ###   ########.fr        #
+#    Updated: 2026/01/12 14:01:54 by mobenhab         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -18,4 +18,4 @@ def ft_count_harvest_recursive(day=1, last_day=None):
           return(ft_count_harvest_recursive(day + 1, last_day))
     else:
         print("Harvest time!")
-        return 0
+     
